@@ -1,0 +1,7 @@
+[general]
+name=OLD Creator
+description=Création automatisée des zones OLD
+version=1.0
+qgisMinimumVersion=3.16
+author=Paul DALLES
+email=paul.dalles@provenceforet.fr
